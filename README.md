@@ -66,10 +66,12 @@ React.js
 
   ---
 
-  Here how our website look like!
-  ![output1] (public/images/output1.png) 
-
   ## 📜License
   This project is **open-source** and free to use for educational or personal development purposes.
+
+  ---
+
+  Here how our website look like!
+  ![output1] (/public/images/output1.png) 
 
 
