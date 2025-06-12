@@ -1,6 +1,6 @@
 # Vansh & Vaishnavi Quiz Project 🎓
 
-This is a full-featured Quiz Web App built using **HTML, CSS, JavaScript**, and **Node.js with Express** on the backend. It allows users to take quizzes, store their results, and view scores — perfect for learning and testing knowledge interactively.
+This is a full-featured Quiz Web App built using **HTML, CSS, JavaScript**, and **React.js** . It allows users to take quizzes, store their results, and view scores — perfect for learning and testing knowledge interactively.
 
 
 
@@ -10,8 +10,7 @@ This is a full-featured Quiz Web App built using **HTML, CSS, JavaScript**, and 
 
 - 🎯 Multiple choice questions with real-time feedback
 - 🧠 Score calculation and display
-- 🗃️ Backend integration with Express
-- 🔐 Basic authentication (optional if implemented)
+- 🔐 Basic authentication
 - 🧾 Clean, responsive UI
 
 ---
@@ -71,9 +70,19 @@ React.js
 
   ---
 
-  Here how our website look like!
+  ## Here how our website look like!
   ![output1](/public/images/output1.png)
   ![output2](/public/images/output2.png)
+  ![output3](/public/images/output3.png)
+  ![output4](/public/images/output4.png)
+  ![output5](/public/images/output5.png)
+  ![output6](/public/images/output6.png)
+  ![output7](/public/images/output7.png)
+  ![output8](/public/images/output8.png)
+  ![output9](/public/images/output9.png)
+  ![output10](/public/images/output10.png)
+  ![output11](/public/images/output11.png)
+  ![output12](/public/images/output12.png)
 
 
 
