@@ -72,6 +72,8 @@ React.js
   ---
 
   Here how our website look like!
-  ![output1] (/public/images/output1.png) 
+  ![output1](/public/images/output1.png)
+  ![output2](/public/images/output2.png)
+
 
 
