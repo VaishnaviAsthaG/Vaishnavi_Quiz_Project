@@ -2,11 +2,7 @@
 
 This is a full-featured Quiz Web App built using **HTML, CSS, JavaScript**, and **Node.js with Express** on the backend. It allows users to take quizzes, store their results, and view scores — perfect for learning and testing knowledge interactively.
 
----
 
-## 🌐 Live Demo
-
-👉 Take the quiz here:
 
 ---
 
@@ -69,6 +65,9 @@ React.js
   [@VaishnaviAsthaG] (https://github.com/VaishnaviAsthaG)
 
   ---
+
+  Here how our website look like!
+  ![output1] (public/images/output1.png) 
 
   ## 📜License
   This project is **open-source** and free to use for educational or personal development purposes.
