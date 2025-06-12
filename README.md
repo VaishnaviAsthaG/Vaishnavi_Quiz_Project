@@ -21,14 +21,56 @@ This is a full-featured Quiz Web App built using **HTML, CSS, JavaScript**, and 
 ---
 
 ## 📁 Project Structure
-Vansh_Vaishnavi_Quiz_Project/
-├── client/
-│ ├── index.html
-│ ├── style.css
-│ └── script.js
-├── server/
-│ ├── server.js
-│ └── routes/
-├── package.json
-└── README.md
+
+```
+Vansh_Vaishnavi_Quiz_Project
+├──public/
+ ├──images
+   ├──bg.png
+ ├──vite.svg
+├──src/
+ ├──assets/
+  ├──react.svg
+ ├──components/
+  ├──Home.jsx
+  ├──Question.jsx
+  ├──Quiz.jsx
+  ├──Result.jsx
+ ├──data/
+  ├──question.js
+ ├──pages/
+  ├──ResultPage.jsx
+  ├──SolutionPage.jsx
+ ├──App.css
+ ├──App.jsx
+ ├──index.css
+ ├──main.jsx
+├──README.md
+├──index.html
+├──package-lock.json
+├──package-lock.json
+```
+
+---
+## 🛠️ Tech Stack
+HTML5
+CSS3
+JavaScript
+React.js
+
+---
+
+## ✨ Contributors
+* **Vansh**
+   🔗GitHub :
+  [@Vansh0702] (https://github.com/Vansh0702)
+* **Vaishnavi Astha Gupta**
+  🔗GitHub :
+  [@VaishnaviAsthaG] (https://github.com/VaishnaviAsthaG)
+
+  ---
+
+  ## 📜License
+  This project is **open-source** and free to use for educational or personal development purposes.
+
 
