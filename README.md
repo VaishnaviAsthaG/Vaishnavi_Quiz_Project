@@ -1,4 +1,4 @@
-# Vansh & Vaishnavi Quiz Project 🎓
+# Vaishnavi Quiz Project 🎓
 
 This is a full-featured Quiz Web App built using **HTML, CSS, JavaScript**, and **React.js** . It allows users to take quizzes, store their results, and view scores — perfect for learning and testing knowledge interactively.
 
@@ -18,7 +18,7 @@ This is a full-featured Quiz Web App built using **HTML, CSS, JavaScript**, and 
 ## 📁 Project Structure
 
 ```
-Vansh_Vaishnavi_Quiz_Project
+Vaishnavi_Quiz_Project
 ├──public/
  ├──images
    ├──bg.png
@@ -56,9 +56,6 @@ React.js
 ---
 
 ## ✨ Contributors
-* **Vansh**
-   🔗GitHub :
-  [@Vansh0702] (https://github.com/Vansh0702)
 * **Vaishnavi Astha Gupta**
   🔗GitHub :
   [@VaishnaviAsthaG] (https://github.com/VaishnaviAsthaG)
